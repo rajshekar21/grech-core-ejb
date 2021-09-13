@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/GRECH_BE_Workspace/BE JARS/grech-core-ejb.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/grech-core-ejb/grech-core-ejb.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="false" exportOutputFolder="true">
+        <folder path="/grech-core-ejb/build/classes/com/grech/core/ejb/domain"/>
+        <folder path="/grech-core-ejb/build/classes/com/grech/los"/>
+        <folder path="/grech-core-ejb/build/classes/META-INF"/>
+        <folder path="/grech-core-ejb/build/classes/com/grech/core/ejb/util"/>
+        <file path="/grech-core-ejb/build/classes/com/grech/core/ejb/service/BaseRemote.class"/>
+        <file path="/grech-core-ejb/build/classes/com/grech/core/ejb/service/DomainSequenceService.class"/>
+        <folder path="/grech-core-ejb/build/classes/com/grech/core/ejb/delegate"/>
+        <folder path="/grech-core-ejb/build/classes/com/grech/core/ejb/exceptionhandling"/>
+    </selectedElements>
+</jardesc>

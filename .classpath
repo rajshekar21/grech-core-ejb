@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JBoss-EJB3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache-Log4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenAdaptor"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JBoss-Client-All"/>
+	<classpathentry kind="lib" path="D:/GRECH ANT APP Deployment/EAR/EJB JARS/grech-security-ejb.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache-Common-All"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jboss-4.3.0.GA/server/all/lib/jbossjta.jar"/>
+	<classpathentry kind="lib" path="D:/jboss-4.3.0.GA/server/all/lib/jbossjta-integration.jar"/>
+	<classpathentry kind="lib" path="D:/jboss-4.3.0.GA/server/all/lib/jbossts-common.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
